@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fPjnFQ9++5YE/NHjM4fZgEzZWnVdfCb8Q7bWgZKmrk4fwfGC9nTIq++OH9K3ZySu9mfTbe3ZqItMYKQCxXVJAQ==",
+  "dgSpecHash": "WlEl39Pk+gMneZqxf4+dyk2g9CFjQtPV7eVOIkQuoSi/GpLsJCeZEMLemtva1hHFpstUydE7PzSaKUIlZSU0qA==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\caelum-stella-csharp.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\caelum-stella-csharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

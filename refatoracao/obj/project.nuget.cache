@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vzumT8okKPkD1aEFQ0BILVIconfTaSgu3AuPZsy6eZtn027uSqEOE9MOHwygojgwT0uzItN0DhVb0Y7Kt7hRA==",
+  "dgSpecHash": "dwaFMBbM58PNEaiYk5FQCkSqF0cV15HgMGxNoZofDjhr7C7Hg9gmrZ96sBA/5dZXtsfdGi88KuVVEh7wHC5IXA==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\refatoracao\\refatoracao.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\refatoracao\\refatoracao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

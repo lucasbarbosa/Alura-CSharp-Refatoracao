@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj": {}
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj": {}
   },
   "projects": {
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj",
         "projectName": "Caelum.Stella.CSharp.NetCore.Test",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp-test\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,14 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp1.1": {
+            "targetAlias": "netcoreapp1.1",
             "projectReferences": {
-              "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\caelum-stella-csharp.csproj": {
-                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\caelum-stella-csharp.csproj"
+              "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\caelum-stella-csharp.csproj": {
+                "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\caelum-stella-csharp.csproj"
               }
             }
           }
@@ -42,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp1.1": {
+          "targetAlias": "netcoreapp1.1",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -65,22 +66,19 @@
               "version": "[4.7.137, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\caelum-stella-csharp.csproj": {
+    "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\caelum-stella-csharp.csproj": {
       "version": "1.4.7",
       "restore": {
-        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\caelum-stella-csharp.csproj",
+        "projectUniqueName": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\caelum-stella-csharp.csproj",
         "projectName": "Caelum.Stella.CSharp",
-        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\caelum-stella-csharp.csproj",
+        "projectPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\caelum-stella-csharp.csproj",
         "packagesPath": "C:\\Users\\lucira01\\.nuget\\packages\\",
-        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp\\obj\\",
+        "outputPath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\lucira01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -94,6 +92,7 @@
         },
         "frameworks": {
           "netstandard1.2": {
+            "targetAlias": "netstandard1.2",
             "projectReferences": {}
           }
         },
@@ -105,6 +104,7 @@
       },
       "frameworks": {
         "netstandard1.2": {
+          "targetAlias": "netstandard1.2",
           "dependencies": {
             "NETStandard.Library": {
               "target": "Package",
@@ -116,7 +116,7 @@
               "version": "[10.0.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

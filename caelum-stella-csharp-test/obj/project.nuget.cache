@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3/Y9J5zjL+7gWESied1zGKso1l6VjVU2u6mtpH8h5xMJ8IssRm8Kt2nhUXJvg4r8oTOj0n/yHiVvSH/ceYt6Dw==",
+  "dgSpecHash": "IJD2L/Y9WRqg1vdTCWZX84Hkzll9tWCWS6sgPsI4MoIovdB3AZ1g9K0Uu+/sz0zh3rHWENES1MD2tDSZwI8WSw==",
   "success": true,
-  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\CSharp Refatoração\\csharp-refatorando-codigo\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj",
+  "projectFilePath": "C:\\Lucas.Teixeira.Files\\TestsProjects\\Alura\\Alura-CSharp-Refatoracao\\caelum-stella-csharp-test\\caelum-stella-csharp-netcore-test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucira01\\.nuget\\packages\\castle.core\\4.2.0\\castle.core.4.2.0.nupkg.sha512",
     "C:\\Users\\lucira01\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
