@@ -1,0 +1,11 @@
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\bin\Debug\netstandard1.2\Caelum.Stella.CSharp.deps.json
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\bin\Debug\netstandard1.2\Caelum.Stella.CSharp.dll
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\bin\Debug\netstandard1.2\Caelum.Stella.CSharp.pdb
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\caelum-stella-csharp.csprojAssemblyReference.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\Caelum.Stella.CSharp.Properties.messages_pt_BR.resources
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\caelum-stella-csharp.csproj.GenerateResource.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\caelum-stella-csharp.AssemblyInfoInputs.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\caelum-stella-csharp.AssemblyInfo.cs
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\caelum-stella-csharp.csproj.CoreCompileInputs.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\Caelum.Stella.CSharp.dll
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\caelum-stella-csharp\obj\Debug\netstandard1.2\Caelum.Stella.CSharp.pdb

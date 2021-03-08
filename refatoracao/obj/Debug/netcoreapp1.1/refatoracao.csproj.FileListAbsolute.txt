@@ -1,0 +1,12 @@
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\bin\Debug\netcoreapp1.1\refatoracao.deps.json
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\bin\Debug\netcoreapp1.1\refatoracao.runtimeconfig.json
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\bin\Debug\netcoreapp1.1\refatoracao.runtimeconfig.dev.json
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\bin\Debug\netcoreapp1.1\refatoracao.dll
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\bin\Debug\netcoreapp1.1\refatoracao.pdb
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.csprojAssemblyReference.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.AssemblyInfoInputs.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.AssemblyInfo.cs
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.csproj.CoreCompileInputs.cache
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.dll
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.pdb
+C:\Lucas.Teixeira.Files\TestsProjects\Alura\CSharp Refatoração\csharp-refatorando-codigo\refatoracao\obj\Debug\netcoreapp1.1\refatoracao.genruntimeconfig.cache
